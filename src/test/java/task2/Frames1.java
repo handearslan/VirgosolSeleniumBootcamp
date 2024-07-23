@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Task1 extends BaseTest {
+public class Frames1 extends BaseTest {
     //Sayfadaki “Frames” yazısı kontrol edilir (<h1>)
     @Test
     public void task1() {

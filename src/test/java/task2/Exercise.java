@@ -6,7 +6,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Task4 extends BaseTest {
+public class Exercise extends BaseTest {
 
     @Test
     public void task4() throws InterruptedException {
@@ -53,20 +53,3 @@ public class Task4 extends BaseTest {
 
     }
 }
-/*
-1)    Tarayıcı açılır (https://katalon-demo-cura.herokuapp.com/)
-        2)    Make Appointment butonuna tıklanır
-        3)    Kullanıcı adı ve şifre girilir (Kullanıcı adı ve şifreyi “Demo account” alanından get metodu kullanarak alıp girilir)
-        4)    Login butonuna tıklanır
-        5)    Şifrenizi değiştirin popupı tamama tıklanır
-        6)    Facility Honkong seçilir
-        7)    “Apply for hospital readmission” check boxı seçilir
-        8)    “Healthcare Program” Medicare radyo butonu seçilir
-        9)    “Visit Date (Required)” alanına tarih girilir
-        10)    “Comment” girilir
-        11)    “Book Appointment” butonuna tıklanır
-        12)    “Appointment Confirmation” yazısı kontrol edilir
-        13)    Sağ üst köşedeki üç çizgi olan menü butonuna tıklanır
-        14)    “Log out” butonuna tıklanır
-        15)    Url kontrol edilir (https://katalon-demo-cura.herokuapp.com/ )
-        16)    “We Care About Your Health” yazısı kontrol edilir*/

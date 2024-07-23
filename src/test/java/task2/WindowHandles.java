@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import java.util.ArrayList;
 
-public class Task3 extends BaseTest {
+public class WindowHandles extends BaseTest {
 
     @Test
     public void task1() throws InterruptedException {

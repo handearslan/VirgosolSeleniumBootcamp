@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 
-public class Task2 extends BaseTest {
+public class Frames2 extends BaseTest {
 
     // “Nested Frames” başlık kontrol edilir (<h1>)
     @Test
