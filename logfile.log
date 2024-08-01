@@ -1,0 +1,29 @@
+2024-08-01 22:42:48,481 ERROR [Log] task()FAILED with cause :The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2024-08-01 22:44:35,440 ERROR [Log] task()FAILED with cause :The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2024-08-01 22:45:59,640 ERROR [Log] task()FAILED with cause :The driver executable does not exist: C:\downloads\chromedriver 
+2024-08-01 22:46:36,457 ERROR [Log] task()FAILED with cause :The driver executable does not exist: C:\Downloads\chromedriver.exe 
+2024-08-01 22:48:03,953 INFO  [Log] before method 
+2024-08-01 22:49:30,528 ERROR [Log] task()FAILED with cause :no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(), 'Amazon sepetiniz boş')]"}
+  (Session info: chrome=127.0.6533.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HANDE', ip: '192.168.1.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.88, chrome: {chromedriverVersion: 127.0.6533.88 (a2d0cb026721..., userDataDir: C:\Users\HANDEA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60481}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 967fd838326c313caddea346b7c614e5
+*** Element info: {Using=xpath, value=//h1[contains(text(), 'Amazon sepetiniz boş')]} 
+2024-08-01 22:50:27,431 INFO  [Log] before method 
+2024-08-01 22:51:44,561 ERROR [Log] task()FAILED with cause :no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(), 'Amazon sepetiniz boş')]"}
+  (Session info: chrome=127.0.6533.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HANDE', ip: '192.168.1.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.88, chrome: {chromedriverVersion: 127.0.6533.88 (a2d0cb026721..., userDataDir: C:\Users\HANDEA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60651}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4568bdbde7452605dbad1ecd434d97e7
+*** Element info: {Using=xpath, value=//h1[contains(text(), 'Amazon sepetiniz boş')]} 
+2024-08-01 22:55:55,662 INFO  [Log] before method 
+2024-08-01 22:57:19,755 INFO  [Log] statik bekleme kullandınız.....!!!! 
+2024-08-01 23:15:12,863 INFO  [Log] before method 
+2024-08-01 23:17:03,152 INFO  [Log] statik bekleme kullandınız.....!!!! 
+2024-08-01 23:17:06,451 INFO  [Log] task()PASSED 

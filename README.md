@@ -90,3 +90,15 @@ Exercise
 23) “Log out” butonuna tıklanır
 24) Url kontrol edilir (https://katalon-demo-cura.herokuapp.com/ )
 25) “We Care About Your Health” yazısı kontrol edilir
+
+
+**task3**
+https://www.amazon.com.tr/ sayfasına git.
+Ana Sayfada çerezleri kabul et butonuna tıkla.
+Ana Sayfada searchbox kısmına Bilgisayar gir.
+Ana Sayfada Ara butonuna tıkla.
+Ürünler Sayfasında ilk ürüne tıkla.
+Ürünler Sayfasında Sepete Ekle butonuna tıkla.
+Ürünler Sayfasında Sepete Git butonuna tıkla.
+Alışveriş Sepeti Sayfasında ürünü silmek için Sil butonuna tıkla.
+Alışveriş Sepeti Sayfasında "Amazon sepetiniz boş." yazısını kontrol et.
